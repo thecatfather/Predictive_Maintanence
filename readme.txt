@@ -1,6 +1,4 @@
-Project ID: PW20KS02
 
-Project Type : Minor
 
 Project Title: Predictive Maintenance for Water Pumps
 
